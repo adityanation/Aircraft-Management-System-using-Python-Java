@@ -63,22 +63,7 @@ Folder Structure
 │── setup_database.py      # Database initialization script
 │── templates/             # HTML templates (if using Flask)
 │── static/                # CSS, JS, images (if using Flask)
-│── gui.py                 # GUI interface (if using Tkinter)
-│── requirements.txt       # Required dependencies
-│── README.md              # Documentation
-
-Future Enhancements
-
-Implement real-time flight tracking
-
-Add role-based authentication
-
-Integrate with third-party APIs for weather and flight data
-
-Develop a mobile version
-
-License
-
+│── gui.py                 # GUI 
 This project is licensed under the MIT License.
 
 Contributors
