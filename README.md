@@ -4,25 +4,7 @@ Introduction
 
 The Aircraft Management System is a Python-based application designed to manage aircraft operations efficiently. It provides functionalities for tracking aircraft details, scheduling flights, managing crew assignments, and maintaining aircraft maintenance records. This system is useful for aviation companies, airports, and airline operators to streamline their operations.
 
-Features
-
-Add, update, and delete aircraft information
-
-Schedule and manage flights
-
-Assign and track crew members
-
-Maintain aircraft maintenance records
-
-View and search flight schedules
-
-Generate reports
-
-Technologies Used
-
-Python (Core language)
-
-Flask (For web-based interface, if applicable)
+Featurese, if applicable)
 
 SQLite/MySQL (For database management)
 
